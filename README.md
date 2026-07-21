@@ -6,6 +6,7 @@
 ![Role](https://img.shields.io/badge/Role-Associate%20Software%20Engineer%20%40%20Acme%20One-0D1117?style=flat-square&labelColor=39FF14&color=0D1117)
 ![Education](https://img.shields.io/badge/B.S.%20Data%20Science-UMT%20Lahore%20%E2%80%A2%206th%20Sem-0D1117?style=flat-square&labelColor=39FF14&color=0D1117)
 ![Certification](https://img.shields.io/badge/Certifying-AI--103%20(Azure%20AI%20Foundry)-0D1117?style=flat-square&labelColor=39FF14&color=0D1117)
+![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20%2F%20Full--Time%20Roles-0D1117?style=flat-square&labelColor=39FF14&color=0D1117)
 
 </div>
 
@@ -33,6 +34,17 @@ I'm a Data Scientist and Associate Software Engineer focused on architecting int
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </div>
+
+<br/>
+
+## 📜 Certifications
+
+- **AI-103** — Designing and Implementing a Microsoft Azure AI Solution *(in progress)*
+- **Claude Code in Action** — Anthropic, 2026
+- **Claude Code 101** — Anthropic, 2026
+- **AI Fluency Framework & Foundations** — Anthropic, 2026
+- **AI Capabilities and Limitations** — Anthropic, 2026
+- **Claude 101** — Anthropic, 2026
 
 <br/>
 
