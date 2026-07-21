@@ -36,10 +36,9 @@ I'm a Data Scientist and Associate Software Engineer focused on architecting int
 
 <br/>
 
-## 🚀 Currently Building
+## 🚀 Projects
 
 **Document Intelligence Platform for Professional Services** *(In Development)*
-
 A RAG platform aimed at local law firms and accounting practices, designed to turn hours of manual document review into cited, conversational query responses.
 
 - **Retrieval** — Azure AI Search over indexed firm documents
@@ -49,8 +48,31 @@ A RAG platform aimed at local law firms and accounting practices, designed to tu
 - **Access control** — Microsoft Entra identity integration
 
 Built on top of Microsoft's production RAG reference architecture, which I forked and am extending toward this vertical use case.
+**Repo:** [Project-Ease](https://github.com/Iambilalfaisal/Project-Ease)
 
-**Repo:** [github.com/Iambilalfaisal/Project-Ease](https://github.com/Iambilalfaisal/Project-Ease)
+<br/>
+
+**MFA Authentication Server** — Information Security capstone
+A multi-factor auth server implementing OTP algorithms by hand rather than relying on a library.
+
+- **HOTP (RFC 4226) and TOTP (RFC 6238) implemented from the spec** — validated against `pyotp` as an independent test oracle, never used in production code
+- AES-256-GCM encrypted secret vault, Argon2id password hashing, real WebAuthn/FIDO2 attestation and assertion verification
+- **AI anomaly-detection layer** — IsolationForest scoring over login features (geo distance, impossible travel, new device, unusual hour) with Claude-generated plain-language alerts
+- Streamlit admin dashboard for users, auth logs, and anomaly alerts
+
+**Repo:** [Multi-Factor-Authentication-Protocols](https://github.com/Iambilalfaisal/Multi-Factor-Authentication-Protocols)
+
+<br/>
+
+**Automated Information Security Risk Assessment Platform** — UMT InfoSec semester project, Spring 2026
+A quantitative risk assessment platform built around NIST SP 800-30 and the AssessITS methodology.
+
+- Risk engine covering asset, threat, and vulnerability management with live **CVE lookups via the NVD API**
+- **LLM-generated control recommendations** (Claude, with a rule-based fallback when no API key is configured)
+- Automated PDF reporting — risk register, cost-benefit analysis, and compliance checklists
+- Flask REST API backing a Streamlit UI, with a React frontend also included
+
+**Repo:** [Automated-Information-Security-Risk-Assessment-Platform](https://github.com/Iambilalfaisal/Automated-Information-Security-Risk-Assessment-Platform)
 
 <br/>
 
@@ -112,6 +134,7 @@ Discipline outside the IDE is the same discipline that ships code on time.
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pi-peach-78.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-bilal-faisal-7274b927b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bilalfaisal100@gmail.com)
 
