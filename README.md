@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=39FF14&background=0D111700&center=true&vCenter=true&multiline=true&width=820&height=130&lines=%3E+whoami;AI+Architect+%7C+Data+Scientist;Building+production-grade+RAG+pipelines;Multi-Agent+Orchestration+%2B+Azure+AI+Foundry;Prepping+for+Microsoft+AI-103+Certification" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2F81F7&background=0D111700&center=true&vCenter=true&multiline=true&width=820&height=130&lines=%3E+whoami;AI+Architect+%7C+Data+Scientist;Building+production-grade+RAG+pipelines;Multi-Agent+Orchestration+%2B+Azure+AI+Foundry;Prepping+for+Microsoft+AI-103+Certification" alt="Typing SVG" />
 
-![Location](https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0D1117?style=flat-square&labelColor=39FF14&color=0D1117)
-![Role](https://img.shields.io/badge/Role-Associate%20Software%20Engineer%20%40%20Acme%20One-0D1117?style=flat-square&labelColor=39FF14&color=0D1117)
-![Education](https://img.shields.io/badge/B.S.%20Data%20Science-UMT%20Lahore%20%E2%80%A2%206th%20Sem-0D1117?style=flat-square&labelColor=39FF14&color=0D1117)
-![Certification](https://img.shields.io/badge/Certifying-AI--103%20(Azure%20AI%20Foundry)-0D1117?style=flat-square&labelColor=39FF14&color=0D1117)
-![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20%2F%20Full--Time%20Roles-0D1117?style=flat-square&labelColor=39FF14&color=0D1117)
+![Location](https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0D1117?style=flat-square&labelColor=2F81F7&color=0D1117)
+![Role](https://img.shields.io/badge/Role-Associate%20Software%20Engineer%20%40%20Acme%20One-0D1117?style=flat-square&labelColor=2F81F7&color=0D1117)
+![Education](https://img.shields.io/badge/B.S.%20Data%20Science-UMT%20Lahore%20%E2%80%A2%206th%20Sem-0D1117?style=flat-square&labelColor=2F81F7&color=0D1117)
+![Certification](https://img.shields.io/badge/Certifying-AI--103%20(Azure%20AI%20Foundry)-0D1117?style=flat-square&labelColor=2F81F7&color=0D1117)
+![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20%2F%20Full--Time%20Roles-0D1117?style=flat-square&labelColor=2F81F7&color=0D1117)
 
 </div>
 
@@ -109,12 +109,12 @@ Engineered and deployed a Retrieval-Augmented Generation (RAG) chatbot directly 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Iambilalfaisal&show_icons=true&hide_border=true&bg_color=00000000&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&hide_title=false" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iambilalfaisal&layout=compact&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=C9D1D9" width="42%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Iambilalfaisal&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&hide_title=false" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iambilalfaisal&layout=compact&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=C9D1D9" width="42%" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Iambilalfaisal&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="60%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Iambilalfaisal&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" width="60%" alt="GitHub Streak" />
 
 </div>
 
@@ -126,7 +126,7 @@ A 3D isometric render of my commit history, rebuilt daily by GitHub Actions.
 
 <div align="center">
 
-<img alt="3D contribution cityscape" src="profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+<img alt="3D contribution cityscape" src="profile-3d-contrib/profile-night-view.svg" width="90%" />
 
 </div>
 
