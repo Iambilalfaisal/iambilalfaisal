@@ -11,20 +11,6 @@
 
 <br/>
 
-```ansi
-[0;32m┌──(bilal㉿iambilalfaisal)-[~/profile][0m
-[0;32m└─$[0m ./whoami.sh --verbose
-
-[1;36mName        [0m: Bilal Faisal
-[1;36mRole        [0m: Associate Developer @ Acme One, Lahore
-[1;36mEducation   [0m: B.S. Data Science — 6th Semester @ University of Management & Technology, Lahore
-[1;36mFocus       [0m: RAG pipelines · Multi-Agent Orchestration · Azure AI Foundry
-[1;36mGoal        [0m: Microsoft AI-103 Certification — in progress
-[1;36mStatus      [0m: [1;32monline[0m — shipping something, probably at 2am
-```
-
-<br/>
-
 ## 👋 About
 
 I'm a Data Scientist and Associate Developer who cares more about pipelines shipping to production than pipelines that only work in a notebook. At **Acme One**, I contribute individually to **Nucleus One**, the company's production platform, after cutting my teeth shadowing senior engineers across other internal systems. Outside of that, I'm independently designing a **Retrieval-Augmented Generation platform for document-heavy professional services** — law firms, CA/accounting practices, and similar niches where the bottleneck isn't intelligence, it's finding the right clause in the right document fast enough, with a citation attached. I'm currently deepening that work toward Microsoft's **AI-103** certification.
@@ -97,26 +83,27 @@ Started by shadowing senior engineers across internal projects to learn the code
 
 ## 🧬 Life & Code
 
-Discipline outside the IDE compiles into discipline inside it. Here's the `cron` for the human side of the stack:
+Discipline outside the IDE is the same discipline that ships code on time.
 
-```yaml
-# ~/life/schedule.yml
-routines:
-  - name: strength-training
-    schedule: "0 6 * * 1-5"        # Mon–Fri, 6:00 AM — non-negotiable
-    status: never-skipped
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  - name: continuous-learning
-    schedule: "@reboot"            # runs on every idle moment
-    topics:
-      - sales
-      - technology
-      - psychology
-      - personal-finance
-    status: always-running
-```
+**🏋️ Training — Mon to Fri**
+No off days during the work week. Same reason a deploy pipeline doesn't get to skip a step: consistency compounds, gaps don't.
 
-> Reps build the body. Reading builds the model you run decisions through. Both are just training loops.
+</td>
+<td width="50%" valign="top">
+
+**📚 Currently reading across**
+- Sales
+- Technology
+- Psychology
+- Personal finance
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -126,11 +113,7 @@ A 3D isometric render of my commit history, rebuilt daily by GitHub Actions.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-day-rainbow.svg" />
-  <img alt="3D contribution cityscape" src="profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
-</picture>
+<img alt="3D contribution cityscape" src="profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 
 </div>
 
