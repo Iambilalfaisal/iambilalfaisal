@@ -6,8 +6,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2F81F7&background=0D111700&center=true&vCenter=true&multiline=true&width=820&height=130&lines=%3E+whoami;AI+Architect+%7C+Data+Scientist;Building+production-grade+RAG+pipelines;Multi-Agent+Orchestration+%2B+Azure+AI+Foundry;Prepping+for+Microsoft+AI-103+Certification" alt="Typing SVG" />
-
 ![Location](https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0D1117?style=flat-square&labelColor=2F81F7&color=0D1117)
 ![Role](https://img.shields.io/badge/Role-Associate%20Software%20Engineer%20%40%20Acme%20One-0D1117?style=flat-square&labelColor=2F81F7&color=0D1117)
 ![Education](https://img.shields.io/badge/B.S.%20Data%20Science-UMT%20Lahore%20%E2%80%A2%206th%20Sem-0D1117?style=flat-square&labelColor=2F81F7&color=0D1117)
@@ -26,16 +24,16 @@ I'm a Data Scientist and Associate Software Engineer focused on architecting int
 
 ## 📡 Core Tech Stack
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![.NET](https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-- ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Laragon](https://img.shields.io/badge/Laragon-3C873A?style=flat-square&logo=windows&logoColor=white)
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Laragon](https://img.shields.io/badge/Laragon-3C873A?style=flat-square&logo=windows&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 <br/>
 
