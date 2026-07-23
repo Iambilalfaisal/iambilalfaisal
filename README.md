@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+  <img alt="Bilal Faisal — AI Architect & Data Scientist hero banner" src="assets/hero-dark.svg" width="100%" />
+</picture>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=2F81F7&background=0D111700&center=true&vCenter=true&multiline=true&width=820&height=130&lines=%3E+whoami;AI+Architect+%7C+Data+Scientist;Building+production-grade+RAG+pipelines;Multi-Agent+Orchestration+%2B+Azure+AI+Foundry;Prepping+for+Microsoft+AI-103+Certification" alt="Typing SVG" />
