@@ -1,6 +1,7 @@
 <svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Fira Code', 'SFMono-Regular', monospace">
 <defs>
   <clipPath id="l-roundedCanvas"><rect x="1" y="1" width="1178" height="608" rx="28"/></clipPath>
+  <clipPath id="l-leftClip"><rect x="0" y="0" width="447" height="610"/></clipPath>
 
   <radialGradient id="l-glowBlue" cx="50%" cy="50%" r="50%">
     <stop offset="0%" stop-color="#2563EB" stop-opacity="0.14"/>
@@ -89,32 +90,34 @@
     <animate attributeName="y" values="-40;650" dur="5s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- LEFT: ASCII terminal avatar -->
-  <g transform="translate(224,0)">
-    <animateTransform attributeName="transform" type="translate" values="224,0;224,-6;224,0;224,6;224,0" keyTimes="0;0.25;0.5;0.75;1" dur="6s" repeatCount="indefinite" additive="sum"/>
-    <g fill="url(#l-asciiGrad)" font-size="13" text-anchor="middle" filter="url(#l-glowSoft)">
-      <text x="0" y="160" opacity="0"><tspan>╔══════════════════╗</tspan><animate attributeName="opacity" begin="0.1s" dur="0.4s" values="0;1" fill="freeze"/></text>
-      <text x="0" y="182" opacity="0"><tspan>║                  ║</tspan><animate attributeName="opacity" begin="0.3s" dur="0.4s" values="0;1" fill="freeze"/></text>
-      <text x="0" y="204" opacity="0"><tspan>║   ▄▄▄▄▄▄▄▄▄▄▄▄   ║</tspan><animate attributeName="opacity" begin="0.5s" dur="0.4s" values="0;1" fill="freeze"/></text>
-      <text x="0" y="226" opacity="0"><tspan>║  █  ◉    ◉  █   ║</tspan><animate attributeName="opacity" begin="0.7s" dur="0.4s" values="0;1" fill="freeze"/></text>
-      <text x="0" y="248" opacity="0"><tspan>║  █          █   ║</tspan><animate attributeName="opacity" begin="0.9s" dur="0.4s" values="0;1" fill="freeze"/></text>
-      <text x="0" y="270" opacity="0"><tspan>║  █   ╲__╱   █   ║</tspan><animate attributeName="opacity" begin="1.1s" dur="0.4s" values="0;1" fill="freeze"/></text>
-      <text x="0" y="292" opacity="0"><tspan>║   ▀▀▀▀▀▀▀▀▀▀▀▀   ║</tspan><animate attributeName="opacity" begin="1.3s" dur="0.4s" values="0;1" fill="freeze"/></text>
-      <text x="0" y="314" opacity="0"><tspan>║                  ║</tspan><animate attributeName="opacity" begin="1.5s" dur="0.4s" values="0;1" fill="freeze"/></text>
-      <text x="0" y="336" opacity="0"><tspan>║    &lt;DEV.EXE/&gt;    ║</tspan><animate attributeName="opacity" begin="1.7s" dur="0.4s" values="0;1" fill="freeze"/></text>
-      <text x="0" y="358" opacity="0"><tspan>║  STATUS: ONLINE  ║</tspan><animate attributeName="opacity" begin="1.9s" dur="0.4s" values="0;1" fill="freeze"/></text>
-      <text x="0" y="380" opacity="0"><tspan>║  BUILD:  STABLE  ║</tspan><animate attributeName="opacity" begin="2.1s" dur="0.4s" values="0;1" fill="freeze"/></text>
-      <text x="0" y="402" opacity="0"><tspan>║                  ║</tspan><animate attributeName="opacity" begin="2.3s" dur="0.4s" values="0;1" fill="freeze"/></text>
-      <text x="0" y="424" opacity="0"><tspan>╚══════════════════╝</tspan><animate attributeName="opacity" begin="2.5s" dur="0.4s" values="0;1" fill="freeze"/></text>
+  <!-- LEFT: ASCII terminal avatar (clipped hard to the left panel so it can never bleed into the right side) -->
+  <g clip-path="url(#l-leftClip)">
+  <g transform="translate(0,0)">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-6;0,0;0,6;0,0" keyTimes="0;0.25;0.5;0.75;1" dur="6s" repeatCount="indefinite" additive="sum"/>
+    <g fill="url(#l-asciiGrad)" font-size="13" text-anchor="start" filter="url(#l-glowSoft)">
+      <text x="70" y="160" opacity="0"><tspan>+------------------+</tspan><animate attributeName="opacity" begin="0.1s" dur="0.4s" values="0;1" fill="freeze"/></text>
+      <text x="70" y="182" opacity="0"><tspan>|                  |</tspan><animate attributeName="opacity" begin="0.3s" dur="0.4s" values="0;1" fill="freeze"/></text>
+      <text x="70" y="204" opacity="0"><tspan>|     .------.     |</tspan><animate attributeName="opacity" begin="0.5s" dur="0.4s" values="0;1" fill="freeze"/></text>
+      <text x="70" y="226" opacity="0"><tspan>|    /  o  o  \    |</tspan><animate attributeName="opacity" begin="0.7s" dur="0.4s" values="0;1" fill="freeze"/></text>
+      <text x="70" y="248" opacity="0"><tspan>|   |          |   |</tspan><animate attributeName="opacity" begin="0.9s" dur="0.4s" values="0;1" fill="freeze"/></text>
+      <text x="70" y="270" opacity="0"><tspan>|    \  \__/  /    |</tspan><animate attributeName="opacity" begin="1.1s" dur="0.4s" values="0;1" fill="freeze"/></text>
+      <text x="70" y="292" opacity="0"><tspan>|     '------'     |</tspan><animate attributeName="opacity" begin="1.3s" dur="0.4s" values="0;1" fill="freeze"/></text>
+      <text x="70" y="314" opacity="0"><tspan>|                  |</tspan><animate attributeName="opacity" begin="1.5s" dur="0.4s" values="0;1" fill="freeze"/></text>
+      <text x="70" y="336" opacity="0"><tspan>|   &lt;DEV.EXE/&gt;     |</tspan><animate attributeName="opacity" begin="1.7s" dur="0.4s" values="0;1" fill="freeze"/></text>
+      <text x="70" y="358" opacity="0"><tspan>|   STATUS: ONLINE |</tspan><animate attributeName="opacity" begin="1.9s" dur="0.4s" values="0;1" fill="freeze"/></text>
+      <text x="70" y="380" opacity="0"><tspan>|   BUILD:  STABLE |</tspan><animate attributeName="opacity" begin="2.1s" dur="0.4s" values="0;1" fill="freeze"/></text>
+      <text x="70" y="402" opacity="0"><tspan>|                  |</tspan><animate attributeName="opacity" begin="2.3s" dur="0.4s" values="0;1" fill="freeze"/></text>
+      <text x="70" y="424" opacity="0"><tspan>+------------------+</tspan><animate attributeName="opacity" begin="2.5s" dur="0.4s" values="0;1" fill="freeze"/></text>
     </g>
-    <text x="0" y="466" text-anchor="middle" font-size="12" fill="#475569" letter-spacing="2" opacity="0">
+    <text x="224" y="466" text-anchor="middle" font-size="12" fill="#475569" letter-spacing="2" opacity="0">
       // BUILDING WITH INTENTION
       <animate attributeName="opacity" begin="3.0s" dur="0.8s" values="0;1" fill="freeze"/>
     </text>
-    <text x="0" y="492" text-anchor="middle" font-size="11" fill="#2563EB" letter-spacing="1" opacity="0">
-      AI ARCHITECT · DATA SCIENTIST
+    <text x="224" y="492" text-anchor="middle" font-size="11" fill="#2563EB" letter-spacing="1" opacity="0">
+      AI ARCHITECT / DATA SCIENTIST
       <animate attributeName="opacity" begin="3.3s" dur="0.8s" values="0;1" fill="freeze"/>
     </text>
+  </g>
   </g>
 
   <!-- RIGHT: terminal window -->

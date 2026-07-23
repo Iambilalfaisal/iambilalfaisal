@@ -26,8 +26,6 @@ I'm a Data Scientist and Associate Software Engineer focused on architecting int
 
 ## 📡 Core Tech Stack
 
-<div align="center">
-
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![.NET](https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 - ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -38,8 +36,6 @@ I'm a Data Scientist and Associate Software Engineer focused on architecting int
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 - ![Laragon](https://img.shields.io/badge/Laragon-3C873A?style=flat-square&logo=windows&logoColor=white)
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-</div>
 
 <br/>
 
