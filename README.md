@@ -122,21 +122,9 @@ Engineered and deployed a Retrieval-Augmented Generation (RAG) chatbot directly 
 
 ## 🏙️ Contribution Cityscape
 
-A 3D isometric render of my commit history, rebuilt daily by GitHub Actions.
-
 <div align="center">
 
 <img alt="3D contribution cityscape" src="profile-3d-contrib/profile-night-view.svg" width="90%" />
-
-</div>
-
-<br/>
-
-## 🛩️ Jet Heatmap
-
-A jet flies over my real contribution grid, firing on the busiest days — rebuilt daily by GitHub Actions.
-
-<div align="center">
 
 <img alt="Jet flying over GitHub contribution heatmap" src="dist/github-jet.svg" width="90%" />
 
