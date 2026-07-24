@@ -132,6 +132,18 @@ A 3D isometric render of my commit history, rebuilt daily by GitHub Actions.
 
 <br/>
 
+## 🛩️ Jet Heatmap
+
+A jet flies over my real contribution grid, firing on the busiest days — rebuilt daily by GitHub Actions.
+
+<div align="center">
+
+<img alt="Jet flying over GitHub contribution heatmap" src="dist/github-jet.svg" width="90%" />
+
+</div>
+
+<br/>
+
 ## 🧬 Life & Code
 
 Discipline outside the IDE is the same discipline that ships code on time.
