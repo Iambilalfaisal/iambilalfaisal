@@ -37,17 +37,6 @@ I'm a Data Scientist and Associate Software Engineer focused on architecting int
 
 <br/>
 
-## 📜 Certifications
-
-- **AI-103** — Designing and Implementing a Microsoft Azure AI Solution *(in progress)*
-- **Claude Code in Action** — Anthropic, 2026
-- **Claude Code 101** — Anthropic, 2026
-- **AI Fluency Framework & Foundations** — Anthropic, 2026
-- **AI Capabilities and Limitations** — Anthropic, 2026
-- **Claude 101** — Anthropic, 2026
-
-<br/>
-
 ## 🚀 Projects
 
 **Document Intelligence Platform for Professional Services** *(In Development)*
@@ -105,6 +94,17 @@ Engineered and deployed a Retrieval-Augmented Generation (RAG) chatbot directly 
 
 <br/>
 
+## 📜 Certifications
+
+- **AI-103** — Designing and Implementing a Microsoft Azure AI Solution *(in progress)*
+- **Claude Code in Action** — Anthropic, 2026
+- **Claude Code 101** — Anthropic, 2026
+- **AI Fluency Framework & Foundations** — Anthropic, 2026
+- **AI Capabilities and Limitations** — Anthropic, 2026
+- **Claude 101** — Anthropic, 2026
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -136,9 +136,11 @@ A 3D isometric render of my commit history, rebuilt daily by GitHub Actions.
 
 Discipline outside the IDE is the same discipline that ships code on time.
 
-| 🏋️ Consistent Execution | 📚 Continuous Learning |
-| :--- | :--- |
-| **Mon–Fri training, no off days.** Same reason a deploy pipeline doesn't get to skip a step: consistency compounds, gaps don't. | **Actively reading across** tech, psychology, sales, and personal finance. |
+| 🏋️ Training | 📚 Currently Reading | 🌍 Beyond the Desk |
+| :--- | :--- | :--- |
+| A two-muscle-group split, every session, chasing real strength and physique — currently in training for a marathon, with an actual finish position in mind, not just finishing. | *The Psychology of Money*, *Rich Dad Poor Dad*, *Genius Makers*, *The Subtle Art of Not Giving a F*ck*, plus books on dark psychology and persuasion. | Cricket, futsal, football, badminton, table tennis. Speak English, Punjabi, and Urdu, and read Arabic. Big on travel, cars, and multitasking by default. |
+
+> "Sab bikta hai, sab khareedoon ga." — everything is for sale, and I'll buy it all.
 
 <br/>
 
@@ -148,6 +150,7 @@ Discipline outside the IDE is the same discipline that ships code on time.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pi-peach-78.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-bilal-faisal-7274b927b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibiilal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bilalfaisal100@gmail.com)
 
 </div>
