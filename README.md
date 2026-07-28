@@ -128,9 +128,6 @@ Engineered and deployed a Retrieval-Augmented Generation (RAG) chatbot directly 
 <img src="https://streak-stats.demolab.com/?user=Iambilalfaisal&hide_border=true&background=00000000&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" width="60%" alt="GitHub Streak" />
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iambilalfaisal&hide_border=true&bg_color=00000000&color=2F81F7&line=2F81F7&point=06B6D4&area=true&area_color=2F81F7" width="90%" alt="Activity Graph" />
-
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" height="4" alt="" /></div>
