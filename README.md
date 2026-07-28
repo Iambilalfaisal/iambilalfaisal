@@ -120,13 +120,15 @@ Engineered and deployed a Retrieval-Augmented Generation (RAG) chatbot directly 
 
 <br/>
 
-## 🏙️ Contribution Cityscape
-
 <div align="center">
 
 <img alt="3D contribution cityscape" src="profile-3d-contrib/profile-night-view.svg" width="90%" />
+<sub>3D isometric render of my commit history</sub>
+
+<br/><br/>
 
 <img alt="Jet flying over GitHub contribution heatmap" src="dist/github-jet.svg" width="90%" />
+<sub>A jet flying over my real contribution grid, firing on the busiest days</sub>
 
 </div>
 
