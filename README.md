@@ -18,12 +18,18 @@
 
 ## 👋 About
 
-I'm a Data Scientist and Associate Software Engineer focused on architecting intelligent, production-grade systems — I care more about pipelines that ship than ones that only work in a notebook. At **Acme One**, I contribute individually to **Nucleus One**, the company's core multi-module enterprise platform, after building my foundation by shadowing senior engineers across other internal systems. Independently, I'm designing a Retrieval-Augmented Generation platform aimed at solving document-heavy bottlenecks for professional services and local firms. I'm currently deepening that expertise toward the Microsoft **AI-103** (Azure AI Apps & Agents) certification.
+I'm a Data Scientist and Associate Software Engineer focused on architecting intelligent, production-grade systems — I care more about pipelines that ship than ones that only work in a notebook. At **Acme One**, I contribute individually to **Nucleus One**, the company's core multi-module enterprise platform, after building my foundation by shadowing senior engineers across other internal systems. Independently, I'm building agentic AI workflows with **LangChain** and **LangGraph** — multi-step chains, tool-calling agents, and stateful pipelines that ship to production — including a Retrieval-Augmented Generation platform aimed at solving document-heavy bottlenecks for professional services and local firms. I'm currently deepening that expertise toward the Microsoft **AI-103** (Azure AI Apps & Agents) certification.
 
 <div align="center"><img src="assets/divider.svg" width="100%" height="4" alt="" /></div>
 
 ## 📡 Core Tech Stack
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-FF6B6B?style=flat-square&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -40,6 +46,20 @@ I'm a Data Scientist and Associate Software Engineer focused on architecting int
 ## 🚀 Projects
 
 > ⭐ **If any of these save you time or teach you something, a star helps more than you'd think** — it's what makes them discoverable to the next person who needs them.
+
+**RepoWarden** — Agentic AI Code Engine
+[![Stars](https://img.shields.io/github/stars/Iambilalfaisal/RepoWarden?style=flat-square&logo=github&color=2F81F7&labelColor=0D1117)](https://github.com/Iambilalfaisal/RepoWarden/stargazers)
+[![Forks](https://img.shields.io/github/forks/Iambilalfaisal/RepoWarden?style=flat-square&logo=github&color=2F81F7&labelColor=0D1117)](https://github.com/Iambilalfaisal/RepoWarden/network/members)
+
+Points a two-agent LangGraph system at any local codebase: a read-only Reviewer proposes changes, and a separate write-capable Editor is only ever constructed after you explicitly approve — the safety boundary is structural, not a prompt instruction the model has to keep honoring.
+
+- Two compiled LangGraph `StateGraph`s (Reviewer, Editor) sharing MongoDB-backed short- and long-term memory
+- Token-level streaming over Server-Sent Events, with structured tool-call/analysis/edit events
+- FastAPI backend · React + Monaco-editor frontend · custom tool definitions
+
+**Repo:** [RepoWarden](https://github.com/Iambilalfaisal/RepoWarden)
+
+<br/>
 
 **MFA Authentication Server** — Information Security capstone
 [![Stars](https://img.shields.io/github/stars/Iambilalfaisal/Multi-Factor-Authentication-Protocols?style=flat-square&logo=github&color=2F81F7&labelColor=0D1117)](https://github.com/Iambilalfaisal/Multi-Factor-Authentication-Protocols/stargazers)
